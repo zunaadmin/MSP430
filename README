@@ -1,0 +1,10 @@
+Library for MSP430 is free software for MSP430 Launchpad
+
+For Copying and licence information pleae see 'COPYING' and 'LICENCE' file
+
+Development Tools Required
+Toolchain    : MSP430 GCC (Opensource toolchain for MSP Controllers)
+Text Editor  : Programmer's notepad Prefered (Use text editor)
+Build Tool   : GNU Make 3.81 (Opensource software build automation tool for C/C++ Developers)
+Flasher      : MSP430 Flasher a command line flashing software from TI (Freeware)
+
