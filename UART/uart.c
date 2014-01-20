@@ -135,7 +135,7 @@ for(;*sPtr!='\0';Serialwrite(*(sPtr++)));
 }
 
 
-/*** Function    : Serialprint
+/*** Function    : SerialIntWrite
 **   Parameters  : unsigned char *
 **   Return      : None
 **   Description : It will send the string to UART
